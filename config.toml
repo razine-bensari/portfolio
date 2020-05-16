@@ -1,4 +1,4 @@
-baseURL = "http://razine-bensari.github.io"
+baseURL = "https://razine-bensari.github.io/"
 languageCode = "en"
 title = "home"
 theme = "Coder"
