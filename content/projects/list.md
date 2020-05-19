@@ -1,5 +1,5 @@
 +++
-title = "Projects"
+title = "List of what I worked on ..."
 slug = "projects"
 +++
 
@@ -20,5 +20,7 @@ Achieved small computation time.
 we implemented a Reliable Data Transfer (RDT) using selective repeat protocol. We managed to achieve it successfully for the get requests from client side.
 
 I am looking to work with GO, work on machine learning projects, worked on SAAS type of solutions or anything really that can allow me to learn more and solve challenging problems.
+
+More projects incoming soon.
 
 Hit me up!
