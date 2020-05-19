@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-slug = "about"
+slug = "me"
 +++
 
 I am a software engineering student (final year), working with Java mainly and playing with Go. I love backend, writing SAAS, using cloud technologies and discrete math.

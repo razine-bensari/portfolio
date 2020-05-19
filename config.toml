@@ -77,11 +77,11 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
     name = "About"
     weight = 2
-    url = "/about/"
+    url = "/about/me/"
 [[menu.main]]
     name = "Contact Me"
     weight = 3
-    url = "/contact/"
+    url = "/contact/me/"
 [[menu.main]]
     name = "Projects"
     weight = 4

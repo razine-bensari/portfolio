@@ -1,6 +1,6 @@
 +++
 title = "List of what I worked on ..."
-slug = "projects"
+slug = "list_projects"
 +++
 
 Nothing to see here yet... I have worked on a few interesting project but have not had the time 
