@@ -1,6 +1,10 @@
 +++
+date = "2020-05-15"
 title = "About Me"
 slug = "me"
+tags = []
+categories = []
+series = ["Theme", "Hugo"]
 +++
 
 I am a software engineering student (final year), working with Java mainly and playing with Go. I love backend, writing SAAS, using cloud technologies and discrete math.
