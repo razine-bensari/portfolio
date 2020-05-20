@@ -2,9 +2,6 @@
 date = "2020-05-15"
 title = "My First Post"
 slug = "first_post"
-tags = []
-categories = []
-series = ["Theme", "Hugo"]
 +++
 
 ### My first Post
