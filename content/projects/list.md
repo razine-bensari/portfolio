@@ -3,7 +3,7 @@ title = "List of what I worked on ..."
 slug = "list_projects"
 +++
 
-Nothing to see here yet... I have worked on a few interesting project but have not had the time 
+I have worked on a few interesting project but have not had the time 
 to put them here. You can check out my github and send me a message on LinkedIn if you are interested.
 
 So far, I have worked on:
