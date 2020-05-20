@@ -1,5 +1,5 @@
 +++
-date = "2020-05-15"
+date = "2020-05-20"
 title = "List of what I worked on ..."
 slug = "list_projects"
 +++
