@@ -19,8 +19,8 @@ pygmentscodefencesguesssyntax = true
     keywords = "blog,developer,personal,portfolio,projects"
     avatarurl = "images/profile.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "static/imgages/favicon-32x32.png"
+    favicon_16 = "static/imgages/favicon-16x16.png"
 
     footercontent = "Let's connect!"
 
