@@ -13,7 +13,7 @@ So far, I have worked on:
 
 2. **Basic of machine learning (in pure python):** Implemented a Naive Bayes Classifier to distinguish tweets languages (6 classes). Trained the models, tested them and did some "hyper-parameter tuning".
 
-3. **State Space Search (in pure python):** Implemented Depth First Search (DFS), Best First Search (BF) and Algorithm A* for the a known as "Lights out".
+3. **State Space Search (in pure python):** Implemented Depth First Search (DFS), Best First Search (BF) and Algorithm A* for a game known as "Lights out".
 Achieved small computation time.
 
 4. **HTTP Protocol and Reliable Data transfer (Data Communication and Networks):** This project was written in JAVA using barebone socket interfaces. In a team of two, we implemented partially a replica of the curl command line
